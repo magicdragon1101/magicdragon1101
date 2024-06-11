@@ -1,6 +1,6 @@
 Hi there 👋
 
-Contact with me: magicdragon1101@gmail.com
+Contact to me: magicdragon1101@gmail.com
 
 I have a proven ability to successfully deliver complex projects and the ability to easily adapt to evolving technologies and environments. 
 I am proficient in various programming languages, including JavaScript, TypeScript, PHP, and has experience using cloud services, especially AWS. 
