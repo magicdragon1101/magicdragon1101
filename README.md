@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently mastering **Next.Js and React Native**
 
-- 💬 Ask me about **React Next.js Node.js Express.js MERN MEAN and React Native Flutter**
+- 💬 Ask me about **React Next.js Node.js Express.js MERN and React Native Flutter**
 
-- 📫 How to reach me **topdev68gmail.com**
+- 📫 How to reach me **magicdragon1101@gmail.com**
 
 ## Skills:
 
